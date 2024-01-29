@@ -1,0 +1,11 @@
+#Copyright (c) 2015 Qualcomm Technologies, Inc.
+#All Rights Reserved.
+#Confidential and Proprietary - Qualcomm Technologies, Inc.
+#
+# ADDITIONAL_FEATURE_PROPERTIES FOR LATAMBRAZIL SPEC
+#
+####################################################
+#set system locale#
+persist.sys.locale=en-US
+ro.telephony.default_network=9
+ro.com.android.dataroaming=false
