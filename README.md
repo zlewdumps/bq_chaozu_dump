@@ -1,0 +1,14 @@
+# chaozu-user 6.0.1 MMB29M 1.3.0_20161017-1036 release-keys
+- manufacturer: bq
+- platform: msm8937
+- codename: chaozu
+- flavor: chaozu-user
+- release: 6.0.1
+- id: MMB29M
+- incremental: 1.3.0_20161017-1036
+- tags: release-keys
+- fingerprint: bq/chaozu/chaozu:6.0.1/MMB29M/1476695482:user/release-keys
+- is_ab: false
+- brand: bq
+- branch: chaozu-user-6.0.1-MMB29M-1.3.0_20161017-1036-release-keys
+- repo: bq_chaozu_dump

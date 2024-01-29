@@ -1,0 +1,8 @@
+service sdlog /system/bin/sdlog
+    class main
+    user root
+    disabled
+    oneshot
+
+on property:persist.service.sdlog.enable=1
+    start sdlog
